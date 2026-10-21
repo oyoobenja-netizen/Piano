@@ -20,6 +20,6 @@ simple-piano-design/
  README.md
 
 Enjoy viewing your piano design!
-🎯 Learning Objectives
+Learning Objectives
 Practice writing semantic HTML.
 Improve CSS styling skills.and personal use.
